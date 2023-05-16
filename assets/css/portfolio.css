@@ -1077,7 +1077,7 @@ a:hover, a:active {
     border-radius: 4px;
     overflow: hidden;
     cursor: pointer;
-    max-height: 500px;
+    max-height: 450px;
 }
 
 .grid-item .img-caption {
